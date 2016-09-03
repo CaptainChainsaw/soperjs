@@ -1,3 +1,7 @@
+/*
+  Written by Graeme McLaren on 3rd Sept 2016
+*/
+
 ;(function(global, $){
     
     var soper = function(){
