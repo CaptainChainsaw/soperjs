@@ -1,6 +1,6 @@
 # Soper.js
 
-Soper.js is a simple JavaScript framework/library that takes reads the contents of an unordered list and randomly places the values in the content of another html element, the demo uses a div element.  The demo uses famous quotes as content.
+Soper.js is a simple JavaScript framework/library that reads the contents of an unordered list and randomly places one of the values in the content of another html element, the demo uses a div element.  The demo uses famous quotes as content.
 
 [Check out the demo]
 
