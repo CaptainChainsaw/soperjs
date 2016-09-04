@@ -59,7 +59,7 @@ $(document).ready(function(){
 
 Enjoy!
 
--CaptainChainaw
+-CaptainChainsaw
 
    [Check out the demo]: <https://plnkr.co/edit/rvzeo0jEZ4bHQZptbSpV?p=preview>
 
