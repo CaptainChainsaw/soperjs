@@ -10,7 +10,7 @@
     
     var soperValues = [];
     var randValue = '';
-    var delay = 5;
+    var delay = 5000;
     
     soper.prototype = {
         selectValues: function(selector){
@@ -40,7 +40,7 @@
         
         refresh: function(delay) {
             var self=this;
-            this.delay = delay;
+            this.delay = delay || 5000;
             this.selectValues(this.selector);
             this.randomise();
             this.setValue(this.selector);

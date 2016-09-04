@@ -51,7 +51,7 @@ $(document).ready(function(){
         This function sets the random value in the html using the selector passed to it.
         
     .refresh(delay)
-        This function reruns all the above at the interval passed to it (in ms).
+        This function reruns all the above at the interval passed to it (in ms).  If no param is passed the default is 5 seconds (5000ms).
         
     .log()
        This is a function that you can log output to the console if you like.  It does not chain to the .refresh() function though.
@@ -61,5 +61,6 @@ Enjoy!
 
 -CaptainChainsaw
 
-   [Check out the demo]: <https://plnkr.co/edit/rvzeo0jEZ4bHQZptbSpV?p=preview>
+   [Check out the demo]: <https://plnkr.co/edit/0bLXLgkKrMlasGuQL62N?p=preview>
+   
 
